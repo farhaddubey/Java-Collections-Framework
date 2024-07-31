@@ -37,7 +37,7 @@ public class ArrayList3{
         });
         System.out.println(list);
         // 0th ------------>get()
-        System.out.println("Printing using GET: "+list.get(0));
+        System.out.println("Printing using GET: "+list.get(2));
         for(int i=0; i<list.size(); i++){
             System.out.println(i);
         }
