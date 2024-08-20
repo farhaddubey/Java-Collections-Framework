@@ -9,4 +9,5 @@ class TestStudent2{
         s1.name="Sonoo";
         System.out.println(s1.id+" "+s1.name);
     }
+    
 }

@@ -18,7 +18,6 @@ public class HashSet1{
         System.out.println(set1);
         set1.addAll(set2);
         System.out.println("Printing elements after adding set2 with set1");
-
         set1.remove("WikiPlay");
         set1.removeAll(set2);
         set1.clear();
@@ -27,7 +26,5 @@ public class HashSet1{
             System.out.println(itr.next());
         }
         System.out.println(set1);
-
-
     }
 }
